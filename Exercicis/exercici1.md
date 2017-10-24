@@ -14,9 +14,10 @@ Amb la comanda anterior es pot veure a la columna Support, està per defecte Inn
 Per canviar el motor a MyISAM utilitzem aquesta comanda:  
 > SET default_storage_engine=MyISAM;  
 > ![12]()  
-
+init 
 ### 3. Explica els passos per instal·lar i activar l'ENGINE MyRocks. MyRocks és un motor d'emmagatzematge per MySQL basat en RocksDB (SGBD incrustat de tipus clau-valor).  
 
+https://www.percona.com/doc/percona-server/LATEST/myrocks/install.html  
 
 ### Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com funciona.  
 
