@@ -4,7 +4,7 @@ Estan actius:
 InnoDB, MRG_MYISAM, MyISAM, BLACKHOLE, CSV, PERFORMANCE_SCHEMA, ARCHIVE i MEMORY.  
 L’únic que no esta activat es el FEDERATED.  
 > SHOW ENGINES;  
->  ![11]()  
+>  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici1/11.PNG)  
 
 ### 2. Com puc saber quin és el motor d’emmagatzematge per defecte. Mostra com canviar aquest paràmetre de tal manera que les noves taules que creem a la BD per defecte utilitzin el motor MyISAM?  
 
