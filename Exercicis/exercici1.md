@@ -37,10 +37,31 @@ Feim la prova creant una base de dades i una taula amb l'engine de ROCKSDB:
 >  ![416b]()  
 
 
-### 4. Importa la BD Sakila com a taules MyISAM. Fes els canvis necessaris per importar la BD Sakila perquè totes les taules siguin de tipus MyISAM.   
+### 4. Importa la BD Sakila com a taules MyISAM. Fes els canvis necessaris per importar la BD Sakila perquè totes les taules siguin de tipus MyISAM.  
+
+Al crear les taules, hi ha que modificar l'ENGINE:  
+>  ![510]()  
+  
+I ara la carreguem al MySQL:  
+>  ![511]()  
+
 ### Mira quins són els fitxers físics que ha creat, quan ocupen i quines són les seves extensions. Mostra'n una captura de pantalla i indica què conté cada fitxer.  
 
+Comprovem a la carpeta /var/lib/mysql que ha creat la carpeta sakila:  
+>  ![512]()  
 
+I el contingut de la carpeta sakila:
+>  ![513]()  
+
+Podem comprovar que hi ha fitxers amb les extensions:
+> > - frm – Guarda la definició de la estructura de la taula
+> - MYD – Guarda el contingut de les taules, es a dir, files i dades
+> - MYI – Guarda els índexs de la taula
+> - opt – Tan sols hi ha el fitxer db.opt. Guarda les opcions de la base de dades.
+>  ![514]()  
+> - TRG – Indica la taula que conté triggers.
+> - TRN – Un fitxer per cada trigger.
+>  ![515]()  
 
 ***
 [Torna enrere](https://github.com/Josep88/MP10UF2-A3)
