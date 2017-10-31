@@ -19,14 +19,19 @@ Per canviar el motor a MyISAM utilitzem aquesta comanda:
 
 Confirmem la versió de Linux, que tenim. Per Centos ha de ser la 6 o la 7.  
 >  ![410]()  
+
 Instalem els fitxers d'instalació i els instal·lem:  
 >  ![411]()  
+
 En acabar la instal·lació ens ha d'apareixer aquest missatge.  
 >  ![412]()  
+
 Hi ha que executar l'script com a usuari root per donar al usuari root del MySQL els credencials per habilitar el RocksDB:  
 >  ![413]()  
+
 Ara ja esta instal·lat, ho podem comprovar amb aquesta comanda:  
 >  ![414]()  
+
 Feim la prova creant una base de dades i una taula amb l'engine de ROCKSDB:  
 >  ![415]()  
 >  ![416b]()  
