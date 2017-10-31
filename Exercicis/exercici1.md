@@ -54,7 +54,7 @@ I el contingut de la carpeta sakila:
 >  ![513]()  
   
 Podem comprovar que hi ha fitxers amb les extensions:  
-> > - frm – Guarda la definició de la estructura de la taula  
+> - frm – Guarda la definició de la estructura de la taula  
 > - MYD – Guarda el contingut de les taules, es a dir, files i dades  
 > - MYI – Guarda els índexs de la taula  
 > - opt – Tan sols hi ha el fitxer db.opt. Guarda les opcions de la base de dades.  
