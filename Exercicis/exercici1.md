@@ -47,20 +47,20 @@ I ara la carreguem al MySQL:
 
 ### Mira quins són els fitxers físics que ha creat, quan ocupen i quines són les seves extensions. Mostra'n una captura de pantalla i indica què conté cada fitxer.  
 
-Comprovem a la carpeta /var/lib/mysql que ha creat la carpeta sakila:  
+Comprovem a la carpeta /var/lib/mysql que ha creat la carpeta sakila:   
 >  ![512]()  
-
-I el contingut de la carpeta sakila:
+  
+I el contingut de la carpeta sakila:  
 >  ![513]()  
-
-Podem comprovar que hi ha fitxers amb les extensions:
-> > - frm – Guarda la definició de la estructura de la taula
-> - MYD – Guarda el contingut de les taules, es a dir, files i dades
-> - MYI – Guarda els índexs de la taula
-> - opt – Tan sols hi ha el fitxer db.opt. Guarda les opcions de la base de dades.
+  
+Podem comprovar que hi ha fitxers amb les extensions:  
+> > - frm – Guarda la definició de la estructura de la taula  
+> - MYD – Guarda el contingut de les taules, es a dir, files i dades  
+> - MYI – Guarda els índexs de la taula  
+> - opt – Tan sols hi ha el fitxer db.opt. Guarda les opcions de la base de dades.  
 >  ![514]()  
-> - TRG – Indica la taula que conté triggers.
-> - TRN – Un fitxer per cada trigger.
+> - TRG – Indica la taula que conté triggers.  
+> - TRN – Un fitxer per cada trigger.  
 >  ![515]()  
 
 ***
