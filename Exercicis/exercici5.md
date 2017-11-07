@@ -17,6 +17,7 @@ Amb la comanda:
 ### 2.  Com podem mirar el número de pàgines modificades (dirty pages)? I el número total de pàgines?  
 Per saber el número de pàgines modificades:  
 >  ![507](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici5/507.PNG)  
+  
 I pel total de pàgines:   
 >  ![508](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici5/508.PNG)  
   
