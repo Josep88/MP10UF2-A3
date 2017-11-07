@@ -13,6 +13,9 @@ Si introduim dades a la taula
 
 El contingut de la taula es crea al fitxer test.CSV  
 >  ![704](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici7/704.PNG)  
+
+I podem veure que el contingut fent una SELECT es el mateix.  
+>  ![705](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici7/705.PNG)  
   
 
 ***
