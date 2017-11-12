@@ -6,8 +6,8 @@
 >  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici2-3/Captura10.JPG)  
 
 En el fichero de configuración  (/etc/percona-server.conf.d/mysqld.cnf)  tendremos que añadir las siguientes líneas:  
-> $ datadir= /discs-mysql/tspaces  
-> $ innodb_file_per_table=1  
+> datadir= /discs-mysql/tspaces  
+> innodb_file_per_table=1  
 >  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici2-3/Captura11.JPG)  
 
 ### 2. Després del canvi què ha passat amb els fitxers que contenien les dades de la BD de Sakila? Fes les captures necesàries per complementar la resposta.  
