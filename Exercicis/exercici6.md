@@ -47,6 +47,7 @@ Per el selinux, modificar l’arxiu /etc/sysconfig/selinux i substituir enforcin
 >  ![601](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici6/620.png)  
 
 4. Ja ho tenim tot preparat. ara hem de crear una taula, i crear la mateixa taula a l’altre servidor IDENTICA, però amb la línia de connexió o amb el servidor creat.  
+
 Línia de connexió:  
 >  ![601](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici6/621.png)  
 
