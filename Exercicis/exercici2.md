@@ -57,7 +57,7 @@ Creamos los directorios y le damos permisos a mysql (los mismos que tiene en la 
 >  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici2-3/Captura9.JPG)  
 
 En el fichero de configuración  (/etc/percona-server.conf.d/mysqld.cnf)  tendremos que añadir la siguiente línea:  
-> $ innodb_data_file_path=disk1/ibdata1:5M;disk2/ibdata2:5M:autoextend  
+> innodb_data_file_path=disk1/ibdata1:5M;disk2/ibdata2:5M:autoextend  
 >  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici2-3/Captura7.JPG)  
 
 ***
