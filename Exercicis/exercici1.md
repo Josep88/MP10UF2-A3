@@ -64,4 +64,5 @@ Podem comprovar que hi ha fitxers amb les extensions:
 >  ![515](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici1/515.PNG)  
 
 ***
-[Torna enrere](https://github.com/Josep88/MP10UF2-A3)
+|[Inici](https://github.com/Josep88/MP10UF2-A3)|[Següent](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici2.md)|
+|:-:|:-:|
