@@ -56,4 +56,5 @@ Amb el servidor:
 
 
 ***
-[Torna enrere](https://github.com/Josep88/MP10UF2-A3)
+|[Anterior](https://github.com/Josep88/MP10UF2-A3/edit/master/Exercicis/exercici5.md)|[Inici](https://github.com/Josep88/MP10UF2-A3)|[Següent](https://github.com/Josep88/MP10UF2-A3/edit/master/Exercicis/exercici7.md)|
+|:-:|:-:|:-:|
