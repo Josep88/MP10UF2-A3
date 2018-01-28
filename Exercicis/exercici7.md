@@ -17,5 +17,5 @@ I podem veure que el contingut fent una SELECT es el mateix.
   
 
 ***
-|[Anterior](https://github.com/Josep88/MP10UF2-A3/edit/master/Exercicis/exercici6.md)|[Inici](https://github.com/Josep88/MP10UF2-A3)|
+|[Anterior](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici6.md|[Inici](https://github.com/Josep88/MP10UF2-A3)|
 |:-:|:-:|
