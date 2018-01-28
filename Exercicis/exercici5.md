@@ -22,4 +22,5 @@ I pel total de pàgines:
 >  ![508](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici5/508.PNG)  
   
 ***
-[Torna enrere](https://github.com/Josep88/MP10UF2-A3)
+|[Anterior](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici4.md)|[Inici](https://github.com/Josep88/MP10UF2-A3)|[Següent](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici6.md)|
+|:-:|:-:|:-:|
