@@ -63,4 +63,5 @@ Insertamos 3 registros en la tabla country (tablespace ‘ts2’):
 ### 4. Quines comandes i configuracions has realitzat per fer els dos apartats anteriors?  
   
 ***
-[Torna enrere](https://github.com/Josep88/MP10UF2-A3)
+|[Anterior](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici3.md)|[Inici](https://github.com/Josep88/MP10UF2-A3)|[Següent](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici5.md)|
+|:-:|:-:|:-:|
