@@ -61,4 +61,5 @@ En el fichero de configuración  (/etc/percona-server.conf.d/mysqld.cnf)  tendre
 >  ![11](https://raw.githubusercontent.com/Josep88/MP10UF2-A3/master/img/exercici2-3/Captura7.JPG)  
 
 ***
-[Torna enrere](https://github.com/Josep88/MP10UF2-A3)
+|[Anterior](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici1.md)|[Inici](https://github.com/Josep88/MP10UF2-A3)|[Següent](https://github.com/Josep88/MP10UF2-A3/blob/master/Exercicis/exercici3.md)|
+|:-:|:-:|:-:|
